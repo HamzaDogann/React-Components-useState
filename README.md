@@ -1,4 +1,4 @@
-![image](https://github.com/HamzaDogann/React-Components-useState/assets/93007915/8c74facb-efcd-46f6-b16d-c2953602639d)I learned about basics of components and how to use useState today. I'm sharing my codes and pratics. You can examine these codes.
+I learned about basics of components and how to use useState today. I'm sharing my codes and pratics. You can examine these codes.
 
 ![1](https://github.com/HamzaDogann/React-Components-useState/assets/93007915/d60bcac9-eced-4ffe-b0e9-0b397f888126)
 
